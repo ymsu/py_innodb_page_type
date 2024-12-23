@@ -38,9 +38,9 @@ innodb_page_type = {
 	'000c':u'Subsequent compressed BLOB Page',
 	'45bf':u'B-tree Node',
 	# New InnoDB Page Types Introduced in MySQL 8.0
-	'45bd':u'Tablespace SDI Index page.',
-	'0017':u'Data pages of uncompressed LOB.',
-	'0018':u'The first page of an uncompressed LOB.'
+	'45bd':u'Tablespace SDI Index page',
+	'0017':u'Data pages of uncompressed LOB',
+	'0018':u'The first page of an uncompressed LOB'
 }
 	
 innodb_page_direction={
